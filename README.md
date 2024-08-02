@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-:woman_technologist: About Me: 
+###:woman_technologist: About Me:### 
 I am a Junior Developer who recently completed <a href="https://www.launchcode.org/course-catalog/web-development-java">LaunchCode's</a> Java bootcamp 🚀 
 - 🔭 I’m currently enrolled in CodingDojo's Web Development bootcamp
 - 🌱 I’m currently learning C#/.NET
