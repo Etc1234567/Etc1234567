@@ -5,9 +5,9 @@
   </a>
   
 ###    :woman_technologist: About Me:    
-I am a Junior Developer who recently completed LaunchCode's Java bootcamp 🚀 
-- 🔭 I’m currently enrolled in CodingDojo's Web Development bootcamp
-- 🌱 I’m currently learning C#/.NET
+I am a Junior Developer and a double bootcamp graduate (LaunchCode🚀and CodingDojo) 
+- 🔭 I’m currently working as a Junior Developer in fintech
+- 🌱 I’m currently learning Angular
 - 😄 Pronouns: she/her
 - 🧐 Interested in: application and web development, robotics, game development 
 - ❤ Gaming, travel, coffee, the beach 🌴
